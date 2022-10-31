@@ -1,0 +1,3 @@
+[submodule "dialogic"]
+	path = dialogic
+	url = git@github.com:coppolaemilio/dialogic.git
